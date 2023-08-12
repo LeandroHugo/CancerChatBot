@@ -5,7 +5,7 @@
 # 🩺 CancerChatBot 🧬
 An AI-driven chatbot focused on cancer. Combining insights from top medical sources and real-world queries, this chatbot is tailored for patients and professionals, offering accurate, comprehensive cancer-related information using advanced language models and multimodal data.
 #### CHAASTETH
-![CHAASTETH](data/banner.png)
+![CHAASTETH](images/banner.png)
 
 ## 📖 Table of Contents
 
