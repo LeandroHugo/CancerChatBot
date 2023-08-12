@@ -47,7 +47,7 @@ CancerChatBot aims to bridge the information gap in oncology by leveraging state
     ```bash
     pip install -r requirements.txt
     ```
-
+.
 4. **Running Jupyter Notebooks**:
     ```bash
     jupyter notebook
