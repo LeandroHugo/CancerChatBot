@@ -1,0 +1,5 @@
+jupyter
+numpy
+pandas
+tensorflow  # if you're using it for model training
+pyinstaller
