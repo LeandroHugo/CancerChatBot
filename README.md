@@ -9,6 +9,7 @@ An AI-driven chatbot focused on cancer. Combining insights from top medical sour
 
 ## 📖 Table of Contents
 
+🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬🧬
 - [🩺 CancerChatBot 🧬](#-cancerchatbot-)
       - [CHAASTETH](#chaasteth)
   - [📖 Table of Contents](#-table-of-contents)
@@ -60,7 +61,7 @@ We leverage data from:
 - Real-world queries from health forums and direct surveys.
 
 For a detailed data collection strategy, refer to our [Data Collection Guide](path_to_data_collection_guide.md).
-
+![Alt text](images/image.png)
 ## 🎮 Usage
 
 Detailed instructions on how to use the chatbot, its interfaces, and example queries will go here.
@@ -80,5 +81,4 @@ We welcome contributions! If you'd like to improve the chatbot, add features, or
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a detailed and structured overview of your project, making it easy for anyone to understand its purpose, usage, and technicalities. Make sure to replace placeholder text (like paths or specific filenames) with actual details. Using medical emojis and a creative approach helps in making the README engaging and visually appealing. If you have any graphics, charts, or visuals related to your project, consider adding them for enhanced clarity.
+![Alt text](images/image0.png)

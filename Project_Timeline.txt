@@ -1,0 +1,16 @@
+Data Collection (Data Integration): 2023-08-12 to 2023-08-26
+Data Cleaning (Data Integration): 2023-08-26 to 2023-08-19
+Database Setup (Data Integration): 2023-08-19 to 2023-08-19
+Fine-tuning (NLP Module): 2023-08-19 to 2023-09-02
+Indexing (Response Generator): 2023-09-02 to 2023-08-19
+Backend Setup (Feedback Loop): 2023-08-19 to 2023-08-26
+Data Collection (Image Analysis): 2023-08-26 to 2023-08-26
+Model Training (Image Analysis): 2023-08-26 to 2023-09-09
+Design (User Interface): 2023-09-09 to 2023-08-26
+Implementation (User Interface): 2023-08-26 to 2023-09-02
+Selection of Testers (Pilot Testing): 2023-09-02 to 2023-08-19
+Feedback Collection (Pilot Testing): 2023-08-19 to 2023-08-26
+Cloud Setup (Deployment & Scaling): 2023-08-26 to 2023-08-19
+Containerization (Deployment & Scaling): 2023-08-19 to 2023-08-19
+Initial Setup (Monitoring & Maintenance): 2023-08-19 to 2023-08-26
+Initial Feedback Analysis (Feedback & Iteration): 2023-08-26 to 2023-08-26
