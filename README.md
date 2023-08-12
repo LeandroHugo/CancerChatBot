@@ -78,7 +78,7 @@ We welcome contributions! If you'd like to improve the chatbot, add features, or
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU LICENSE. SEE THE [LICENSE](LICENSE) FILE FOR DETAILS.
 
 ---
 ![Alt text](images/image0.png)
